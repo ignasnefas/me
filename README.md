@@ -19,11 +19,11 @@ I like working on small, expressive projects — from AI-powered tools to playfu
 
 Here are some things I’ve built or am building:
 
-- **[inhaiku](https://github.com/takeourcarsnow/inhaiku)** — AI-powered haiku generator from news headlines  
-- **[MonoLog](https://github.com/takeourcarsnow/MonoLog)** — Minimalist photo journaling app  
-- **[TLDRWire](https://github.com/takeourcarsnow/TLDRWire)** — AI news summarizer  
-- **[TunedIn](https://github.com/takeourcarsnow/TunedIn)** — Music-focused social app  
-- **[ReddiTunes](https://github.com/takeourcarsnow/ReddiTunes)** — Retro-style Reddit music explorer  
+- **[inhaiku](https://github.com/ignasnefas/inhaiku)** — AI-powered haiku generator from news headlines  
+- **[MonoLog](https://github.com/ignasnefas/MonoLog)** — Minimalist photo journaling app  
+- **[TLDRWire](https://github.com/ignasnefas/TLDRWire)** — AI news summarizer  
+- **[TunedIn](https://github.com/ignasnefas/TunedIn)** — Music-focused social app  
+- **[ReddiTunes](https://github.com/ignasnefas/ReddiTunes)** — Retro-style Reddit music explorer  
 - **[nefas.tv](https://nefas.tv)** — Personal site & experiments  
 
 👉 Check out my repositories below for more.
