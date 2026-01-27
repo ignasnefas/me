@@ -8,10 +8,10 @@ I like working on small, expressive projects — from AI-powered tools to playfu
 ---
 
 ## 🧠 What I'm into
-- Creative web development
-- AI-powered apps & automation
-- Product experiments & side projects
-- UI/UX with personality
+- Creative web development  
+- AI-powered apps & automation  
+- Product experiments & side projects  
+- UI/UX with personality  
 
 ---
 
@@ -19,12 +19,12 @@ I like working on small, expressive projects — from AI-powered tools to playfu
 
 Here are some things I’ve built or am building:
 
-- **inhaiku** — AI-powered haiku generator from news headlines  
-- **MonoLog** — Minimalist photo journaling app  
-- **TLDRWire** — AI news summarizer  
-- **TunedIn** — Music-focused social app  
-- **ReddiTunes** — Retro-style Reddit music explorer  
-- **nefasPortfolio** — My personal site & experiments
+- **[inhaiku](https://github.com/takeourcarsnow/inhaiku)** — AI-powered haiku generator from news headlines  
+- **[MonoLog](https://github.com/takeourcarsnow/MonoLog)** — Minimalist photo journaling app  
+- **[TLDRWire](https://github.com/takeourcarsnow/TLDRWire)** — AI news summarizer  
+- **[TunedIn](https://github.com/takeourcarsnow/TunedIn)** — Music-focused social app  
+- **[ReddiTunes](https://github.com/takeourcarsnow/ReddiTunes)** — Retro-style Reddit music explorer  
+- **[nefas.tv](https://nefas.tv)** — Personal site & experiments  
 
 👉 Check out my repositories below for more.
 
