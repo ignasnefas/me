@@ -1,9 +1,20 @@
 # Hey, I'm Ignas 👋
 
-🚀 I build creative web apps, experiments, and tools.  
+🚀 I build playful, AI-powered web apps, experiments, and tools.  
 🌐 Personal site: https://nefas.tv
 
-I like working on small, expressive projects — from AI-powered tools to playful web experiences.
+I focus on small projects with big ideas and a lot of personality.
+
+---
+
+## Contents
+
+- [What I'm into](#-what-im-into)
+- [Featured Projects](#-featured-projects)
+- [All Projects](#-all-projects)
+- [Tech I like working with](#-tech-i-like-working-with)
+- [GitHub stats](#-github-stats)
+- [Find me](#-find-me)
 
 ---
 
@@ -17,20 +28,23 @@ I like working on small, expressive projects — from AI-powered tools to playfu
 
 ## 🚀 Featured Projects
 
-Here are some things I’ve built or am building:
+Here are a few highlights — click any repo to explore:
 
-- **[inhaiku](https://github.com/ignasnefas/inhaiku)** — AI-powered haiku generator from news headlines  
-- **[MonoLog](https://github.com/ignasnefas/MonoLog)** — Minimalist photo journaling app  
-- **[TLDRWire](https://github.com/ignasnefas/TLDRWire)** — AI news summarizer  
-- **[TunedIn](https://github.com/ignasnefas/TunedIn)** — Music-focused social app  
-- **[ReddiTunes](https://github.com/ignasnefas/ReddiTunes)** — Retro-style Reddit music explorer  
-- **[nefas.tv](https://nefas.tv)** — Personal site & experiments  
+- **[inhaiku](https://github.com/ignasnefas/inhaiku)** — AI haiku generator that turns headlines into short poems.  
+- **[TLDRWire](https://github.com/ignasnefas/TLDRWire)** — AI-powered news summarizer with concise, customizable rundowns.  
+- **[MonoLog](https://github.com/ignasnefas/MonoLog)** — Minimalist daily photo journal built with Next.js.  
+- **[TunedIn](https://github.com/ignasnefas/TunedIn)** — Lightweight music-focused social app built on Supabase.  
+- **[ReddiTunes](https://github.com/ignasnefas/ReddiTunes)** — Retro-themed Reddit music explorer and playlist generator.  
+- **[nefas.tv](https://nefas.tv)** — My personal site and experiments.
 
-👉 Check out my repositories below for more.
+👉 Explore the full list below or open the repo to run locally.
 
 ## 📁 All Projects
 
-- **[me](https://github.com/ignasnefas/me)** ([nefas.tv](https://nefas.tv/)) — i occasionally write code that gets deployed to the internet. no startup grind, no VC buzzwords — just late-night commits and whatever felt fun to build.
+<details>
+<summary>All projects — expand to view</summary>
+
+- **[me](https://github.com/ignasnefas/me)** ([nefas.tv](https://nefas.tv/)) — I occasionally write code that gets deployed to the internet. No startup grind, no VC buzzwords — just late-night commits and whatever felt fun to build.
 - **[UnsuckWindows](https://github.com/ignasnefas/UnsuckWindows)** ([unsuck-windows.vercel.app](https://unsuck-windows.vercel.app/)) — a personal guide for better Windows experience
 - **[ToyCam](https://github.com/ignasnefas/ToyCam)** ([toy-cam.vercel.app](https://toy-cam.vercel.app/)) — A real-time camera effects application built with Next.js and TypeScript. Apply various effects to your live camera feed including film grain, dithering, ASCII art, and pixelization.
 - **[ReddiTunes](https://github.com/ignasnefas/ReddiTunes)** ([redditunes.vercel.app](https://redditunes.vercel.app/)) — A retro themed music aggregator & player that generates playlists dynamically from music subreddits.
@@ -57,31 +71,34 @@ Here are some things I’ve built or am building:
 - **[Zenflow](https://github.com/ignasnefas/Zenflow)** ([zenflow.quest](https://zenflow.quest/)) — A compact, privacy-first Kanban board ported into a Next.js app. ZenBoard stores your board locally (encrypted with a passphrase) and can optionally sync to a Supabase backend.
 - **[kaleidoscopism](https://github.com/ignasnefas/kaleidoscopism)** ([kaleidoscopism.vercel.app](https://kaleidoscopism.vercel.app/))
 
+</details>
+
 ---
 
 ## 💻 Tech I like working with
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?logo=nodedotjs&logoColor=339933)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?logo=tailwindcss&logoColor=38B2AC)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?logo=nodedotjs&logoColor=339933) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?logo=tailwindcss&logoColor=38B2AC)
 
 ---
 
 ## 📊 GitHub stats
 
-![Ignas's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeourcarsnow&show_icons=true&hide_title=true)
+![Ignas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignasnefas&show_icons=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeourcarsnow&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasnefas&layout=compact)
 
 ---
 
 ## 🌍 Find me
 
 - 🌐 Website: https://nefas.tv  
-- 💻 GitHub: https://github.com/takeourcarsnow  
+- 💻 GitHub: https://github.com/ignasnefas  
+
+---
+
+## 📬 Contact
+
+Feel free to open issues, create PRs, or reach out via GitHub or through my website.
 
 ---
 
